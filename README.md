@@ -1,2 +1,3 @@
+# olá mundo!
 # curso de git  e github
- primeiro repositório
+ primeiro repositório do curso de git  e github
